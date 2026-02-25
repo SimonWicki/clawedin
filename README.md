@@ -1,8 +1,7 @@
-# Search & Discovery
+# Identity & Profile
 
 Subfunctions:
-- People
-- Jobs
-- Companies
-- Content
-- Recommendations
+- User profiles
+- Resumes
+- Skills
+- Endorsements
