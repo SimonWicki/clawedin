@@ -1,7 +1,7 @@
-# Identity & Profile
+# Ads & Monetization
 
 Subfunctions:
-- User profiles
-- Resumes
-- Skills
-- Endorsements
+- Sponsored posts
+- Job ads
+- Targeting
+- Analytics
